@@ -14,21 +14,21 @@
 	const steps: Step[] = [
 		{
 			number: '01',
-			title: 'Record Any Process',
+			title: 'Screen Record During Work',
 			description:
-				'Simply perform a task on-screen. Squint’s computer vision works in the background to capture every step without interrupting your workflow.'
+				'Your experts simply perform their tasks normally while Squint captures their screen activity. No interruption to workflow, no special setup required.'
 		},
 		{
 			number: '02',
-			title: 'AI Generates Instructions',
+			title: 'Computer Vision Creates Instructions',
 			description:
-				'Our AI instantly converts the recording into a step-by-step visual guide, complete with screenshots, annotations, and clear descriptions.'
+				'Squint's AI automatically transforms the recording into step-by-step visual work instructions with screenshots, annotations, and clear descriptions.'
 		},
 		{
 			number: '03',
-			title: 'Access Anywhere, Instantly',
+			title: 'Instant Searchable Knowledge Base',
 			description:
-				'Your team gets immediate access to a searchable library of work instructions, available on any device, right when they need it.'
+				'Your entire team gains immediate access to a searchable library of tribal knowledge, reducing training time and eliminating production delays.'
 		}
 	];
 </script>
@@ -40,8 +40,8 @@
 				class="relative flex w-full items-center justify-center overflow-hidden rounded-2xl bg-primary-100 px-6 py-20"
 			>
 				<img
-					src="https://www.ledr.com/colours/black.jpg"
-					alt="Abstract background pattern"
+					src="/generated/image-on-a-factory-floor-workers-are-engaged-i.webp"
+					alt="Manufacturing team working together"
 					class="absolute inset-0 h-full w-full object-cover opacity-5"
 				/>
 				<div class="relative z-10 flex flex-col items-center justify-center gap-8">
@@ -61,13 +61,13 @@
 						<h2
 							class="text-balance text-center font-display text-level-5xl font-normal tracking-tight text-gray-900"
 						>
-							Capture Knowledge in 3 Simple Steps
+							Turn Tribal Knowledge into Instructions
 						</h2>
 						<p
 							class="max-w-md text-balance text-center font-body text-level-lg font-normal text-gray-700"
 						>
-							Squint makes process documentation effortless, turning your team's actions into a
-							powerful knowledge base.
+							Squint eliminates documentation resistance by capturing processes during normal work,
+							transforming scattered expertise into searchable instructions.
 						</p>
 					</div>
 				</div>

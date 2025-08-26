@@ -18,12 +18,11 @@
 		<div class="flex flex-col items-center gap-8">
 			<div class="flex flex-col items-center gap-4 text-center">
 				<h1 class="text-balance font-display text-level-5xl text-gray-900">
-					Turn Expertise into<br />
-					Instructions. Instantly.
+					Transform Tribal Knowledge into<br />
+					Searchable Instructions
 				</h1>
 				<p class="mx-auto max-w-xl text-balance font-body font-normal text-level-xl text-gray-700">
-					Squint uses computer vision to automatically transform complex processes into simple,
-					visual instructions for your manufacturing team.
+					Squint captures your team's expertise through screen recording and computer vision, instantly creating visual work instructions that reduce training time and eliminate production delays.
 				</p>
 			</div>
 			<a
@@ -39,7 +38,7 @@
 					<div class="absolute inset-0 bg-gray-100">
 						<img
 							alt="Demonstration of Squint's process capture technology"
-							src="https://www.ledr.com/colours/white.jpg"
+							src="/generated/image-a-manufacturing-worker-is-deeply-focused.webp"
 							class="h-full w-full object-cover"
 						/>
 					</div>
